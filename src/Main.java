@@ -15,8 +15,10 @@ public class Main {
 
 
     }
-    private String test()
+    private void test()
     {
+        //
         System.out.println("thisis test");
+
     }
 }
