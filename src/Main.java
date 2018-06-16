@@ -15,4 +15,8 @@ public class Main {
 
 
     }
+    private String test()
+    {
+        System.out.println("thisis test");
+    }
 }
