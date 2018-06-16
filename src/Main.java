@@ -3,6 +3,10 @@ import java.util.Collections;
 import java.util.List;
 
 public class Main {
+    /**
+     *
+     * @param args main
+     */
     public static void main(String[] args) {
 
 
